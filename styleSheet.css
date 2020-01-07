@@ -121,13 +121,13 @@ li {
 	}
 
 	#youTube {
-		background-image: url("images/youtube.png");
+		background-image: url("images/you.png");
 		flex-grow: 0;
 		flex-shrink: 10;
 	}
 
 	#instagram {
-		background-image: url("images/instagram.png");
+		background-image: url("images/gram.png");
 		flex-grow: 0;
 	}
 
@@ -137,7 +137,7 @@ li {
 	}
 
 	#twitter {
-		background-image: url("images/twitter.png");
+		background-image: url("images/twit.png");
 		flex-grow: 0;
 	}
 /*END ID Styles*/
