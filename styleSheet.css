@@ -1,4 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Black+Ops+One&display=swap');
+@font-face{
+	font-family: 'skirmisher';
+	src: url('skirmisher.ttf') format('truetype');
+}
 
 body {
 	background: none repeat scroll 0 0 #080808;
@@ -9,7 +12,7 @@ body {
 }
 
 h1 {
-	font-family: "Black Ops One";
+	font-family: "skirmisher";
 	margin: 5px 0px 5px 0px;
 }
 
@@ -24,7 +27,7 @@ a {
 }
 
 a:hover {
-	text-shadow: 0em .25em .3em #01ff5a;
+	text-shadow: 0em .4em .3em #f00200;
 }
 
 
