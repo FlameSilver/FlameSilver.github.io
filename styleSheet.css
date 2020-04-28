@@ -45,30 +45,12 @@ li {
 	/*Banner Styles*/
 		.banner {
 		  position: relative;
-		  text-align: center;
 		  width: 100%;
 		  margin: 0;
 		  display: flex;
 			border-bottom: 2px solid #5a01ff;
 		}
 
-		.logoDiv {
-		  position: absolute;
-		  width: 40%;
-		  top: 50%;
-		  left: 50%;
-		  margin-right: -50%;
-		  transform: translate(-50%, -50%);
-		}
-
-		.logoName{
-		  position: absolute;
-		  padding: 0px 10px 0px 10px;
-		  font-size: 3em;
-			text-shadow: .25em .25em black;
-		  top: 50%;
-
-		}
 	/*END Banner Styles*/
 
 	/*Link Styles*/
